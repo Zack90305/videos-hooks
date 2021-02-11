@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 //class SearchBar extends React.Component {
 //add destructured onFormSubmit arg to fx decl
